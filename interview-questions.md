@@ -53,12 +53,16 @@ Researched answer: Pair programming is a collaborative effort that involves 2 pe
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: Built in methods/premade functions that are easily invoked. They take a parameter and argument and can easily itritate through a string or array in their own efficient loop.
 
-2. Jest:
+2. Jest: Is a testing framwork for Javascript, framework is a collection of files managed by something called Yarn. (Yarn is a package manager). Jest is uded to check if your code is working, then see if it needs refactoring. Refactoring can even refine and improve code that already works, just making it down and making it easier to read and more efficient. 
 
-3. Objects:
+3. Objects: A collection of properties notes as key: value; pairs.
+These values can be functions making it extremely easy to access huge amounts of desired data very efficiently 
 
-4. Method:
+4. Method: A method is an action that can be stored as an object. So it is the same as a desired function, however it is linked to an object, so calling the object will call the method(function assigned to the object). A method operates the data in a class, different to how a function only returns or passes data.
 
-5. Classes:
+5. Classes: A blueprint/template for creating objects, classes make it easier to build software around object orientated programmining concepts, also using "syntactical sugar" to streamline and make the code more efficient. 
+
+
+  
